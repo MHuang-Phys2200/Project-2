@@ -17,7 +17,7 @@ int dwarf_eqs (double r, const double y[], double f[], void *params)
 	{
 		double p = pow(rho, 2./3.);
 		double gamma = p/(3 * sqrt(1. + p));
-		f[0] = rho * r *r;m
+		f[0] = rho * r *r;
 		if (r > 1.e-6)
 		{
 			f[1] = -m * rho/(gamma * r *r);
