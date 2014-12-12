@@ -1,0 +1,10 @@
+unset key
+set style data line
+set title 'Radius vs. Mass w/ 0.08 < initial density < 10e6'
+set xlabel 'Mass'
+set ylabel 'Radius'
+
+set term png
+set o "RadiusVsMass-q3.png"
+
+p [0:2.5] [0:4] "res2" u 3:1 w l
