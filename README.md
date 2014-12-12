@@ -6,5 +6,6 @@ dwarf star as a function of radius. Initial conditions ( mass and density at r =
 mass = 0 and density = rho_c, which varies from .08 to 10e6 in this report. 
 
 * **Density Vs Radius**
-    
-    
+    ![alt tag](https://github.com/MHuang-Phys2200/Project-2/blob/master/DensityVsRadius-q2.png)
+
+    ![alt tag](https://github.com/MHuang-Phys2200/Project-2/blob/master/RadiusVsMass-q3.png)
