@@ -15,5 +15,5 @@ The graph shows the density of a white dwarf star with an initial density of 10 
 
    ![alt tag](https://github.com/MHuang-Phys2200/Project-2/blob/master/RadiusVsMass-q3.png)
    
-This  shows the radius and the mass of white dwarf stars with initial densities ranging from 0.08 to 1,000,000. The graph shows that as mass increases radius actually decreases.
+This  shows the radius and the mass of white dwarf stars with initial densities ranging from 0.08 to 1,000,000. The graph shows that as mass increases the star's radius actually decreases.
 
